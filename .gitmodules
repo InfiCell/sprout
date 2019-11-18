@@ -58,3 +58,6 @@
 [submodule "modules/clearwater-s4"]
 	path = modules/clearwater-s4
 	url = git@github.com:InfiCell/clearwater-s4.git
+[submodule "plugins/memento-as"]
+	path = plugins/memento-as
+	url = git@github.com:InfiCell/memento-as.git
