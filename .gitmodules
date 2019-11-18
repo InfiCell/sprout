@@ -1,45 +1,45 @@
 [submodule "build-infra"]
 	path = build-infra
-	url = git@github.com:Metaswitch/clearwater-build-infra.git
+	url = git@github.com:InfiCell/clearwater-build-infra.git
 [submodule "modules/c-ares"]
 	path = modules/c-ares
 	url = git@github.com:bagder/c-ares.git
 [submodule "modules/curl"]
 	path = modules/curl
-	url = git@github.com:Metaswitch/curl.git
+	url = git@github.com:InfiCell/curl.git
 [submodule "modules/gmock"]
 	path = modules/gmock
-	url = git@github.com:Metaswitch/gmock-upstream.git
+	url = git@github.com:InfiCell/gmock-upstream.git
 [submodule "modules/libmemcached"]
 	path = modules/libmemcached
-	url = git@github.com:Metaswitch/libmemcached-upstream.git
+	url = git@github.com:InfiCell/libmemcached-upstream.git
 [submodule "modules/libre"]
 	path = modules/libre
-	url = git@github.com:Metaswitch/libre-upstream.git
+	url = git@github.com:InfiCell/libre-upstream.git
 [submodule "modules/openssl"]
 	path = modules/openssl
 	url = git@github.com:openssl/openssl.git
 [submodule "modules/pjsip"]
 	path = modules/pjsip
-	url = git@github.com:Metaswitch/pjsip-upstream.git
+	url = git@github.com:InfiCell/pjsip-upstream.git
 [submodule "modules/restund"]
 	path = modules/restund
-	url = git@github.com:Metaswitch/restund.git
+	url = git@github.com:InfiCell/restund.git
 [submodule "modules/sipp"]
 	path = modules/sipp
-	url = git@github.com:Metaswitch/sipp.git
+	url = git@github.com:InfiCell/sipp.git
 [submodule "modules/websocketpp"]
 	path = modules/websocketpp
 	url = git@github.com:zaphoyd/websocketpp.git
 [submodule "modules/sas-client"]
 	path = modules/sas-client
-	url = git@github.com:Metaswitch/sas-client.git
+	url = git@github.com:InfiCell/sas-client.git
 [submodule "modules/cpp-common"]
 	path = modules/cpp-common
-	url = git@github.com:Metaswitch/cpp-common.git
+	url = git@github.com:InfiCell/cpp-common.git
 [submodule "modules/libevhtp"]
 	path = modules/libevhtp
-	url = git@github.com:Metaswitch/libevhtp.git
+	url = git@github.com:InfiCell/libevhtp.git
 [submodule "modules/gcovr"]
 	path = modules/gcovr
 	url = git@github.com:gcovr/gcovr.git
@@ -48,13 +48,13 @@
 	url = git@github.com:miloyip/rapidjson.git
 [submodule "modules/app-servers"]
 	path = modules/app-servers
-	url = git@github.com:Metaswitch/clearwater-app-servers.git
+	url = git@github.com:InfiCell/clearwater-app-servers.git
 [submodule "modules/gemini"]
 	path = modules/gemini
-	url = git@github.com:Metaswitch/gemini.git
+	url = git@github.com:InfiCell/gemini.git
 [submodule "clearwater-etcd-plugins"]
 	path = modules/clearwater-etcd-plugins
-	url = git@github.com:Metaswitch/clearwater-etcd-plugins.git
+	url = git@github.com:InfiCell/clearwater-etcd-plugins.git
 [submodule "modules/clearwater-s4"]
 	path = modules/clearwater-s4
-	url = git@github.com:Metaswitch/clearwater-s4.git
+	url = git@github.com:InfiCell/clearwater-s4.git
